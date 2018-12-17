@@ -1,0 +1,47 @@
+[33mcommit e356741e0186866430231c19f663ed19e0588d04[m[33m ([m[1;36mHEAD -> [m[1;32mbr_login[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: mossi <mossi.hashemi@gmail.com>
+Date:   Sun Dec 16 01:55:55 2018 +0100
+
+    Install firebase-tools and first Ashop Deployment
+
+[33mcommit 05249972cdefe747c37d51280f3f488ef53897b5[m
+Author: mossi <mossi.hashemi@gmail.com>
+Date:   Sun Dec 16 00:16:29 2018 +0100
+
+    Add ng-bootstrap Module and fix Dropdown menu
+
+[33mcommit bd448cebd732708de2a872b59aa53d824f25d217[m
+Author: mossi <mossi.hashemi@gmail.com>
+Date:   Sat Dec 15 21:13:29 2018 +0100
+
+    Add some components and defining the routes
+
+[33mcommit 93b10ebfbaf9a4a5687687e2de77709dafceabcd[m
+Author: mossi <mossi.hashemi@gmail.com>
+Date:   Sat Dec 15 20:44:03 2018 +0100
+
+     Add Navbar component
+
+[33mcommit 5329deb95774c3bcf2dd9048b2bba9d89a2e7952[m
+Author: mossi <mossi.hashemi@gmail.com>
+Date:   Sat Dec 15 20:38:35 2018 +0100
+
+     Add Bootstrap starter page
+
+[33mcommit b4c4ea10ec834261aaaa38004f057701ae5ff39c[m
+Author: mossi <mossi.hashemi@gmail.com>
+Date:   Sat Dec 15 20:24:28 2018 +0100
+
+    import ANgular firebase's Modules to Ashop
+
+[33mcommit ccc3c3447c750c6ac3fc0d9842ec548bdb21f243[m
+Author: mossi <mossi.hashemi@gmail.com>
+Date:   Sat Dec 15 19:55:33 2018 +0100
+
+    Add fire base to Ashop
+
+[33mcommit f3e7916a1b686faf216383bdc2bf2c10a832d92d[m
+Author: mossi <mossi.hashemi@gmail.com>
+Date:   Sat Dec 15 19:19:58 2018 +0100
+
+    initial commit
